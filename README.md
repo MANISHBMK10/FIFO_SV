@@ -1,2 +1,2 @@
 # FIFO_SV
-Design &amp; Verification of FIFO
+Design &amp; Verification of FIFO with Transaction, Driver, Monitor and Scoreboard Classes
